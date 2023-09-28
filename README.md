@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NextJS Blog
+
+This is a repository that follows the [NextJS Blog Tutorial](https://nextjs.org/learn).
+
+Technologies used through the course: **NextJS**, **React**, **Javascript**
